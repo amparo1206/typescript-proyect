@@ -19,5 +19,8 @@
   "homepage": "https://github.com/amparo1206/typescript-proyect#readme",
   "devDependencies": {
     "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
   }
 }
